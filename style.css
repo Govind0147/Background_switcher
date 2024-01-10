@@ -1,0 +1,26 @@
+.main-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+}
+#btn1{
+    background-color: gray;
+}
+#btn2{
+    background-color: white;
+}
+#btn3{
+    background-color: blue;
+}
+#btn4{
+    background-color: yellow;
+}
+nav{
+    display: flex;
+}
